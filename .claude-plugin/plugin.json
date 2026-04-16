@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap-italia",
+  "version": "1.0.0",
+  "description": "Bootstrap Italia v2.x — Italian PA design system for Claude Code. Build PA-compliant websites with the official Italian government design system based on Bootstrap 5.2.3.",
+  "author": {
+    "name": "Jonato01",
+    "url": "https://github.com/Jonato01"
+  },
+  "homepage": "https://italia.github.io/bootstrap-italia/",
+  "repository": "https://github.com/Jonato01/bootstrap-italia-skill",
+  "license": "MIT",
+  "keywords": [
+    "bootstrap-italia",
+    "design-system",
+    "italian-pa",
+    "pubblica-amministrazione",
+    "bootstrap-5",
+    "agid",
+    "designers-italia",
+    "accessibility",
+    "wcag"
+  ],
+  "skills": [
+    {
+      "name": "bootstrap-italia",
+      "path": "skills/bootstrap-italia/SKILL.md",
+      "description": "Bootstrap Italia v2.x components, patterns, and PA design guidelines"
+    }
+  ]
+}
